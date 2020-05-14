@@ -8,8 +8,8 @@ module.exports = {
         {
             resolve: 'gatsby-source-contentful',
             options: {  
-                spaceId: "dwm2hltjgpqn",
-                accessToken: "fjEM_vrmLod-fIygz8WVqiL1h_oLD8HWHuMOknk6a_A",
+                spaceId: "u43ctj9xdgv0",
+                accessToken: "1Xi77xyEETRyldusQ41pzwlEzWiIJRe-6mN5ivxIrms",
                 host : "cdn.contentful.com",
                 downloadLocal : false,
                 forceFullSync: false
