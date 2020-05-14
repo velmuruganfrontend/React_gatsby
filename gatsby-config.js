@@ -7,9 +7,12 @@ module.exports = {
         'gatsby-plugin-react-helmet',
         {
             resolve: 'gatsby-source-contentful',
-            options: {
-                spaceId: process.env.CONTENTFUL_SPACE_ID,
-                accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
+            options: {  
+                spaceId: "dwm2hltjgpqn",
+                accessToken: "fjEM_vrmLod-fIygz8WVqiL1h_oLD8HWHuMOknk6a_A",
+                host : "cdn.contentful.com",
+                downloadLocal : false,
+                forceFullSync: false
             }
         },
         'gatsby-plugin-sass',
