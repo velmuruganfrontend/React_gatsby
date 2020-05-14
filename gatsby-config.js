@@ -10,7 +10,7 @@ module.exports = {
             options: {  
                 spaceId: "u43ctj9xdgv0",
                 accessToken: "1Xi77xyEETRyldusQ41pzwlEzWiIJRe-6mN5ivxIrms",
-                host : "cdn.contentful.com",
+                host : "cdn.contentful.com", 
                 downloadLocal : false,
                 forceFullSync: false
             }
